@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there , my name is Aaron and I am a CS student from Kerala, India . <br>I'm trying to widen the horizons and looking forward to learn more each day :)
+Hey there , my name is Aaron and I am a CS student from Kerala, India . <br>I'm trying to widen my horizons and looking forward to learn more each day :)
 
 
 ## 🌐 Socials:
@@ -15,13 +15,11 @@ Hey there , my name is Aaron and I am a CS student from Kerala, India . <br>I'm 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aarontphil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Motivated enough ?
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aarontphil&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Meme it up !
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
