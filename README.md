@@ -15,26 +15,3 @@ Hey there , my name is Aaron and I am a CS student from Kerala, India . <br>I'm 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aarontphil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Motivated enough ?
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
-### 😂 Meme it up !
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=aarontphil&icon=8&color=9)](https://visitcount.itsvg.in)
-
-**aarontphil/aarontphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
